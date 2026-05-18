@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 🛑 REPLACE THIS URL WITH YOUR ACTUAL IMAGE URL -->
-  <img src="https://media.istockphoto.com/id/1473149698/photo/business-finance-data-analytics-graph-advisor-using-kpi-dashboard-on-virtual-screen-financial.jpg?s=612x612&w=0&k=20&c=-IjSeic-dsswhjDbsV9yQHDHIVOzAwrBR2pSvQT9rmQ=" width="100%" alt="Engineering" style="border-radius: 15px;" />
+  <img src="https://media.istockphoto.com/id/1473149698/photo/business-finance-data-analytics-graph-advisor-using-kpi-dashboard-on-virtual-screen-financial.jpg?s=612x612&w=0&k=20&c=-IjSeic-dsswhjDbsV9yQHDHIVOzAwrBR2pSvQT9rmQ=" width="100%" alt="Engineering" style="border-radius: 10px;" />
 </div>
 
 <br/>
