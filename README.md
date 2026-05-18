@@ -1,21 +1,21 @@
-# Hi there, I'm Chetan 👋
+# Hi there, I'm Chetan Ambiger 👋
 
 <div align="center">
   <!-- 🛑 REPLACE THIS URL WITH YOUR ACTUAL IMAGE URL -->
-  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="My Profile Banner" style="border-radius: 15px;" />
+  <img src="https://media.istockphoto.com/id/1346698461/photo/agile-software-development-with-developer-using-kanban-board-framework-methodology-on.jpg?s=612x612&w=0&k=20&c=KtXz5QIDt2qZUHtaUWzEWLTuf7dNUo07Ptbc56Lcf-o=" width="100%" alt="My Profile Banner" style="border-radius: 5px;" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer & AI Enthusiast** passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI. 
+I'm a ** Fronted Developer.[Software Engineer & AI Enthusiast]** passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI. 
 
-- 🔭 I’m currently working on **[Your Current Project or Company]**
+- 🔭 I’m currently working on **[GOOGLE DEVELOPER EXPERTS]**
 - 🌱 I’m currently diving deeper into **Advanced Generative AI and LLMs**
 - 👯 I’m looking to collaborate on **Open Source ML Projects / Web Applications**
 - 💬 Ask me about **Python, Machine Learning, Frontend Dev, GenAI**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[chetanambigerchetan@gmail.com]**
 
 ---
 
@@ -100,13 +100,13 @@ I'm a **Software Engineer & AI Enthusiast** passionate about building intuitive 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/Chetan Ambiger" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/@chetanambi123" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  <a href="mailto:chetanambiger0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
