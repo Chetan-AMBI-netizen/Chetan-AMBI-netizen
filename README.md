@@ -1,21 +1,21 @@
-# Hi there, I'm [Chetan Ambiger] 👋
+# Hi there, I'm Chetan Ambiger 👋
 
 <div align="center">
   <!-- 🛑 REPLACE THIS URL WITH YOUR ACTUAL IMAGE URL -->
-  <img src="Chetan profile.jpeg" width="100%" alt="My Profile Banner" style="border-radius: 15px;" />
+  <img src="C:\Users\Dell\OneDrive\Pictures\Chetan profile.jpeg" width="100%" alt="My Profile Banner" style="border-radius: 15px;" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-I'm a **  Frontend Developer [Software Engineer & AI Enthusiast]** passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI. 
+I'm a **  Frontend-Developer.[Software Engineer & AI Enthusiast]** passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI. 
 
-- 🔭 I’m currently working on **[Your Current  working on SSOC open-source contributor.]**
-- 🌱 I’m currently diving deeper into **[Advanced Generative AI, LLMs, etc.]**
-- 👯 I’m looking to collaborate on **[Open Source ML Projects / Web Applications]**
-- 💬 Ask me about **[Python, Machine Learning, Frontend Dev, GenAI]**
-- 📫 How to reach me: **[chetanambiger0@gmail.com]**
+- 🔭 I’m currently working on **[ SSOC open-source contributor ]**
+- 🌱 I’m currently diving deeper into **Advanced Generative AI and LLMs**
+- 👯 I’m looking to collaborate on **Open Source ML Projects / Web Applications**
+- 💬 Ask me about **Python, Machine Learning, Frontend Dev, GenAI**
+- 📫 How to reach me: **[chetanambigerchetan@gmail.com]**
 
 ---
 
@@ -51,19 +51,27 @@ I'm a **  Frontend Developer [Software Engineer & AI Enthusiast]** passionate ab
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=
-     Chetan-AMBI-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?
-    user= Chetan-AMBI-netizen&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <h3>🔥 My Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-AMBI-netizen&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
+<!-- STREAK AND OVERALL STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-AMBI-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-AMBI-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-AMBI-netizen&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-AMBI-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
 ---
@@ -77,7 +85,7 @@ I'm a **  Frontend Developer [Software Engineer & AI Enthusiast]** passionate ab
   <a href="https://twitter.com/@chetanambi123" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:chetanambiger0@gmail.com" target="_blank">
+  <a href="mailto:chetanambigerchetan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
