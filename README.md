@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 🛑 REPLACE THIS URL WITH YOUR ACTUAL IMAGE URL -->
-  <img src="C:\Users\Dell\OneDrive\Pictures\Chetan profile.jpeg" width="100%" alt="My Profile Banner" style="border-radius: 15px;" />
+  <img src="https://www.istockphoto.com/photo/business-finance-data-analytics-graph-advisor-using-kpi-dashboard-on-virtual-screen-gm1473149698-503336985" width="100%" alt="Engineering" style="border-radius: 15px;" />
 </div>
 
 <br/>
