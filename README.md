@@ -1,15 +1,15 @@
-# Hi there, I'm Chetan Ambiger 👋
+# Hi there, I'm Chetan  Ambiger👋
 
 <div align="center">
   <!-- 🛑 REPLACE THIS URL WITH YOUR ACTUAL IMAGE URL -->
-  <img src="https://media.istockphoto.com/id/1346698461/photo/agile-software-development-with-developer-using-kanban-board-framework-methodology-on.jpg?s=612x612&w=0&k=20&c=KtXz5QIDt2qZUHtaUWzEWLTuf7dNUo07Ptbc56Lcf-o=" width="100%" alt="My Profile Banner" style="border-radius: 5px;" />
+  <img src="https://media.istockphoto.com/id/1346698461/photo/agile-software-development-with-developer-using-kanban-board-framework-methodology-on.jpg?s=612x612&w=0&k=20&c=KtXz5QIDt2qZUHtaUWzEWLTuf7dNUo07Ptbc56Lcf-o=" width="100%" alt="Engineering" style="border-radius: 3px;" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-I'm a ** Fronted Developer.[Software Engineer & AI Enthusiast]** passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI. 
+I'm a ** FRONTEND-DEVELOPER.[Software Engineer & AI Enthusiast]** passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI. 
 
 - 🔭 I’m currently working on **[GOOGLE DEVELOPER EXPERTS]**
 - 🌱 I’m currently diving deeper into **Advanced Generative AI and LLMs**
@@ -68,23 +68,26 @@ I'm a ** Fronted Developer.[Software Engineer & AI Enthusiast]** passionate abou
 <!-- STABLE CONTRIBUTION GRAPH -->
 <div align="center">
   <h3>🔥 My Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-AMBI-netizen&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Contribution Graph" />
+  <!-- Added &v=1 to force clean refresh -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-AMBI-netizen&bg_color=0D1117&color=00C4CC&line=00C4CC&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF&v=1" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <!-- STABLE PROFILE DETAILS AND STREAK -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetan-AMBI-netizen&theme=tokyonight" width="48%" alt="GitHub Profile Details" />
-  <img src="https://streak-stats.demolab.com/?user=Chetan-AMBI-netizen&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- Added &v=1 to force clean refresh -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chetan-AMBI-netizen&theme=tokyonight&v=1" width="48%" alt="GitHub Profile Details" />
+  <img src="https://streak-stats.demolab.com/?user=Chetan-AMBI-netizen&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- STABLE REPOS PER LANGUAGE -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chetan-AMBI-netizen&theme=tokyonight" width="48%" alt="Languages Profile" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chetan-AMBI-netizen&theme=tokyonight" width="48%" alt="Most Commits Languages" />
+  <!-- Added &v=1 to force clean refresh -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chetan-AMBI-netizen&theme=tokyonight&v=1" width="48%" alt="Languages Profile" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chetan-AMBI-netizen&theme=tokyonight&v=1" width="48%" alt="Most Commits Languages" />
 </div>
 
 <br/>
@@ -92,7 +95,8 @@ I'm a ** Fronted Developer.[Software Engineer & AI Enthusiast]** passionate abou
 <!-- BEAUTIFUL PROFILE TROPHIES -->
 <div align="center">
   <h3>🏆 My Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetan-AMBI-netizen&theme=tokyonight&no-bg=true" alt="Trophies" />
+  <!-- Added &v=1 to force clean refresh -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetan-AMBI-netizen&theme=tokyonight&no-bg=true&v=1" alt="Trophies" />
 </div>
 
 ---
