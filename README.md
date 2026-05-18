@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 🛑 REPLACE THIS URL WITH YOUR ACTUAL IMAGE URL -->
-  <img src=""C:\Users\Dell\OneDrive\Pictures\Chetan profile.jpeg"" width="100%" alt="My Profile Banner" style="border-radius: 15px;" />
+  <img src="Chetan profile.jpeg" width="100%" alt="My Profile Banner" style="border-radius: 15px;" />
 </div>
 
 <br/>
