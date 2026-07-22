@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer & AI Enthusiast**, passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI.
+I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building intuitive frontend interfaces, engineering robust machine learning models, and exploring the cutting-edge of Generative AI.
 
 - 🔭 I'm currently working on **Google Developer Experts**
 - 🌱 I'm currently diving deeper into **Advanced Generative AI and LLMs**
@@ -49,7 +49,7 @@ I'm a **Software Engineer & AI Enthusiast**, passionate about building intuitive
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-### 🐍 Python & Data Science
+<!--### 🐍 Python & Data Science
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -75,6 +75,7 @@ I'm a **Software Engineer & AI Enthusiast**, passionate about building intuitive
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+-->
 
 ### 🧰 Tools, IDE & OS
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
