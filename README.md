@@ -12,11 +12,11 @@
 <div align="center">
 
 <!-- ================= ANIMATED HEADER BANNER (NEW - replaces old image) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=   Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Contribuitor&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Contribuitor&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- ================= TYPING SVG (NEW) ================= -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines= Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contribuitor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Future+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8C%90;Contribuitor+%40+Google+Developer+Experts+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
