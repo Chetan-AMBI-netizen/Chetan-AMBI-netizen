@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- ================= ANIMATED HEADER BANNER (NEW - replaces old image) ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Contribuitor&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C4CC&height=250&section=header&text=Hi%20There,%20I'm%20Chetan%20Ambiger&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Future%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Contribuitor&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- ================= TYPING SVG (NEW) ================= -->
 <a href="#">
