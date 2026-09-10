@@ -43,11 +43,13 @@ I'm a ** Future Software Engineer & AI Enthusiast**, passionate about building i
 ### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 
+<!--
 ### 🔧 Backend
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+-->
 
 <!--### 🐍 Python & Data Science
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
